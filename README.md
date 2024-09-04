@@ -1,6 +1,6 @@
 - 👋 Olá eu sou Victor Torres Martins - Estudante de Ciência da Computação na UFRGS 📚👩‍💻
 - 🌱 Atualmente estou aprofundando conhecimentos em C#, HTML e CSS.
-- 📫 Voc~e pode me encontrar em: 
+- 📫 Você pode me encontrar em: 
         
         Instagram:@victor.torresm
         Twitter: VictorTMBR1
