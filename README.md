@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Victor Torres Martins (*VictorTMBR*)
+- 👋 Olá eu sou Victor Torres Martins - Estudante de Ciência da Computação na UFRGS 📚👩‍💻
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning how to programing C++ and some experience with Java...
-- 📫 Reach me at: 
+- 🌱 Atualmente estou aprofundando conhecimentos em C#, HTML e CSS.
+- 📫 Voc~e pode me encontrar em: 
         
         Instagram:@victor.torresm
         Twitter: VictorTMBR1
