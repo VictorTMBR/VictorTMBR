@@ -1,3 +1,5 @@
+<h1>Olá, eu sou Victor Torres 👨‍💻</h1>
+
 - 👋 Olá eu sou Victor Torres Martins - Estudante de Ciência da Computação na UFRGS 📚👩‍💻
 - 🌱 Atualmente estou aprofundando conhecimentos em C, HTML e CSS.
 - 📫 Você pode me encontrar em: 
