@@ -1,12 +1,13 @@
 <h1>Olá, eu sou Victor Torres 👨‍💻</h1>
 
-Seja Bem Vindo ao Meu Github - Estudante de Ciência da Computação na UFRGS 📚👩‍💻
+Seja Bem Vindo ao meu Perfil Github sou Estudante de Ciência da Computação na UFRGS
+
 📚 Atualmente estou aprofundando conhecimentos em C, HTML e CSS.
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-C" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"">
 </div>
 
 ##
