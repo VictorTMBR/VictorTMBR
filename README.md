@@ -4,6 +4,7 @@ Seja Bem Vindo ao meu Perfil Github, sou Estudante de Ciência da Computação n
 
 📚 Atualmente estou aprofundando conhecimentos em Front-End e C#
 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
   <img align="center" alt="Icon-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
