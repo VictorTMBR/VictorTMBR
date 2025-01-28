@@ -1,9 +1,17 @@
 <h1>Olá, eu sou Victor Torres 👨🏽‍💻</h1>
 
-Seja Bem Vindo ao meu Perfil Github, sou Estudante de Ciência da Computação na UFRGS
+Sou um estudante de Ciência da Computação na UFRGS.
 
-📚 Atualmente estou aprofundando conhecimentos em Front-End e C#
+##
 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VictorTMBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorTMBR&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
