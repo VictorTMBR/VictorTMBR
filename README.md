@@ -26,4 +26,3 @@ Sou um estudante de Ciência da Computação na UFRGS.
 
 ###
 
-<img src="https://raw.githubusercontent.com/VictorTMBR/VictorTMBR/output/snake.svg" alt="Snake animation" />
