@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Victor Torres 👨🏽‍💻</h1>
 
-Sou um estudante de Ciência da Computação na UFRGS.
+Sou um estudante de Ciência da Computação na UFRGS. 
 <div> 
   <a href="https://instagram.com/victor.torresm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:victormartins.torres@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
