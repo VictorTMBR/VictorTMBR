@@ -25,3 +25,7 @@ Sou um estudante de Ciência da Computação na UFRGS.
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/VictorTMBR/VictorTMBR/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
