@@ -1,6 +1,7 @@
 <h1>Olá, eu sou Victor Torres 👨🏽‍💻</h1>
 
 Estagiário de Quality Assurance.
+
 Estudante de Ciência da Computação na UFRGS. 
 <div> 
   <a href="https://instagram.com/victor.torresm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
