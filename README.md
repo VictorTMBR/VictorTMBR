@@ -1,6 +1,6 @@
 <h1>Olá, eu sou Victor Torres 👨🏽‍💻</h1>
 
-<h4>Estagiário de QA na PROCERGS.</h4>                                                                                                                           
+<h4>Analista de Quality Assurance na PROCERGS.</h4>                                                                                                                           
 <h5>Estudante de Ciência da Computação na UFRGS.</h5>
 <div> 
   <a href="https://instagram.com/victor.torresm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -12,18 +12,10 @@
 
 <h3>Linguagens e Tecnologias:</h3>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Icon-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"> 
-  <img align="center" alt="Icon-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Icon-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<h3>Estatísticas:</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorTMBR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorTMBR&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
+  <img align="center" alt="Icon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img align="center" alt="Icon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-line.svg"/>
+  <img align="center" alt="Icon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"/>
+  <img align="center" alt="Icon-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"/>
